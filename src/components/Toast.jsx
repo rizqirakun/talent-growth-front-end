@@ -86,7 +86,7 @@ const InitToastContainer = () => {
   return (
     <ToastContainer
       position={toast.POSITION.TOP_RIGHT}
-      autoClose={300000}
+      autoClose={4000}
       hideProgressBar={true}
       newestOnTop={false}
       closeOnClick
