@@ -1,0 +1,128 @@
+{
+    "en": {
+        "register": {
+            "title": "Sign up account",
+            "forms": {
+                "full_name": {
+                    "label": "Full name"
+                },
+                "email": {
+                    "label": "Your email"
+                },
+                "phone": {
+                    "label": "Phone number"
+                },
+                "website": {
+                    "label": "Website"
+                },
+                "password": {
+                    "label": "Password"
+                },
+                "repassword": {
+                    "label": "Confirm password"
+                },
+                "button": {
+                    "submit": "Sign up"
+                },
+                "or": {
+                    "label": "Or sign up with"
+                },
+                "tos": {
+                    "label": "I accept the",
+                    "link": "Terms and Conditions"
+                }
+            },
+            "login": {
+                "label": "Already have an account?",
+                "action": "Login here"
+            }
+        },
+        "register_send_email_verification": {
+            "title": "Check your inbox",
+            "description": "We are glad, that you’re with us {{ name }}. We’ve sent you a verification link to the email address",
+            "button": {
+                "back": "Back to home",
+                "action": "Login"
+            }
+        },
+        "register_success_email_verification": {
+            "title": "Email activation success",
+            "description": "Successfully activate account, now you can login with email",
+            "button": {
+                "back": "Back to home",
+                "action": "Resend email"
+            }
+        },
+        "register_failed_email_verification": {
+            "title": "Email activation failed",
+            "description": "",
+            "button": {
+                "back": "Back to home",
+                "action": "Register"
+            }
+        }
+    },
+    "id": {
+        "register": {
+            "title": "Buat akun Anda",
+            "forms": {
+                "full_name": {
+                    "label": "Nama lengkap"
+                },
+                "email": {
+                    "label": "Email Anda"
+                },
+                "phone": {
+                    "label": "Nomor telepon"
+                },
+                "website": {
+                    "label": "Website"
+                },
+                "password": {
+                    "label": "Kata sandi"
+                },
+                "repassword": {
+                    "label": "Konfirmasi kata sandi"
+                },
+                "button": {
+                    "submit": "Daftar"
+                },
+                "or": {
+                    "label": "Atau daftar dengan"
+                },
+                "tos": {
+                    "label": "Saya menerima",
+                    "link": "Syarat dan Ketentuan"
+                }
+            },
+            "login": {
+                "label": "Sudah punya akun?",
+                "action": "Masuk ke akun Anda"
+            }
+        },
+        "register_send_email_verification": {
+            "title": "Email berhasil dikirim",
+            "description": "Kami senang bertemu dengan Anda {{ name }}. Kami telah mengirimkan link verifikasi ke alamat email",
+            "button": {
+                "back": "Halaman utama",
+                "action": "Kirim ulang email"
+            }
+        },
+        "register_success_email_verification": {
+            "title": "Email berhasil diaktivasi",
+            "description": "Silahkan klik tombol masuk, untuk segera menggunakan akun Anda",
+            "button": {
+                "back": "Halaman utama",
+                "action": "Masuk"
+            }
+        },
+        "register_failed_email_verification": {
+            "title": "Email gagal diaktivasi",
+            "description": "",
+            "button": {
+                "back": "Halaman utama",
+                "action": "Daftar ulang"
+            }
+        }
+    }
+}

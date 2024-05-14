@@ -1,0 +1,88 @@
+{
+    "en": {
+        "yup": {
+            "validation": {
+                "name": {
+                    "required": "Name is required.",
+                    "min": "Name value min {{ min }} character",
+                    "max": "Name value max {{ max }} character.",
+                    "matches": "Name can only contain letters and numbers."
+                },
+                "full_name": {
+                    "required": "Full name is required.",
+                    "min": "Full name value min {{ min }} character",
+                    "max": "Full name value max {{ max }} character.",
+                    "matches": "Full name can only contain letters, numbers, and space."
+                },
+                "email": {
+                    "required": "Email is required.",
+                    "matches": "Email format incorrect."
+                },
+                "password": {
+                    "required": "Password is required.",
+                    "min": "Password value min {{ min }} character.",
+                    "max": "Password value max {{ max }} character.",
+                    "matches": "Password can only contain letters and numbers."
+                },
+                "repassword": {
+                    "required": "Retype password is required.",
+                    "matches": "Retype password not match."
+                },
+                "tos": {
+                    "required": "Terms of service approval is required"
+                },
+                "phone": {
+                    "required": "Phone number is required.",
+                    "matches": "Phone number format is invalid."
+                },
+                "website": {
+                    "required": "Website link is required.",
+                    "matches": "Website link format is invalid."
+                }
+            }
+        }
+    },
+    "id": {
+        "yup": {
+            "validation": {
+                "name": {
+                    "required": "Nama masih belum diisi.",
+                    "min": "Nama minimal {{ min }} karakter",
+                    "max": "Nama maksimal {{ max }} karakter.",
+                    "matches": "Nama hanya boleh berisi huruf dan angka."
+                },
+                "full_name": {
+                    "required": "Nama masih belum diisi.",
+                    "min": "Nama minimal {{ min }} karakter",
+                    "max": "Nama maksimal {{ max }} karakter.",
+                    "matches": "Nama hanya boleh berisi huruf, angka, dan spasi."
+                },
+                "email": {
+                    "required": "Email masih belum diisi.",
+                    "matches": "Format email tidak sesuai."
+                },
+                "password": {
+                    "required": "Kata sandi masih belum diisi.",
+                    "min": "Kata sandi minimal {{ min }} karakter.",
+                    "max": "Kata sandi maksimal {{ max }} karakter.",
+                    "matches": "Kata sandi hanya boleh berisi huruf dan angka."
+                },
+                "repassword": {
+                    "required": "Konfirmasi kata sandi masih belum diisi.",
+                    "matches": "Konfirmasi kata sandi tidak sama."
+                },
+                "tos": {
+                    "required": "Persetujuan sayarat dan ketentuan belum diisi."
+                },
+                "phone": {
+                    "required": "Nomor telepon masih belum diisi.",
+                    "matches": "Format nomor telepon tidak valid."
+                },
+                "website": {
+                    "required": "Alamat website masih belum diisi.",
+                    "matches": "Format alamat website tidak valid."
+                }
+            }
+        }
+    }
+}

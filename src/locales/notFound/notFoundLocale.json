@@ -1,0 +1,26 @@
+{
+    "en": {
+        "not_found": {
+            "default": {
+                "title": "Page not found",
+                "description": "The page you are looking for doesn't exist. Here are some helpful links you can visit:",
+                "button": {
+                    "back": "Go back",
+                    "home": "Take me home"
+                }
+            }
+        }
+    },
+    "id": {
+        "not_found": {
+            "default": {
+                "title": "Halaman tidak ditemukan",
+                "description": "Halaman yang Anda cari tidak ditemukan. Berikut ini beberapa tautan yang dapat Anda kunjungi:",
+                "button": {
+                    "back": "Kembali",
+                    "home": "Halaman utama"
+                }
+            }
+        }
+    }
+}

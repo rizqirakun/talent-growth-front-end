@@ -1,0 +1,20 @@
+{
+    "en": {
+        "not_verified_email": {
+            "title": "Please verify your email to continue.",
+            "notification": "Your email address still not been verified. Please check verification mail in your account to use the application or",
+            "action": {
+                "resend_email": "resend email verification."
+            }
+        }
+    },
+    "id": {
+        "not_verified_email": {
+            "title": "Silahkan cek email anda untuk melanjutkan.",
+            "notification": "Alamat email Anda masih belum diverifikasi. Silakan periksa email verifikasi di akun Anda untuk menggunakan aplikasi atau",
+            "action": {
+                "resend_email": "kirim ulang email."
+            }
+        }
+    }
+}

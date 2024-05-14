@@ -1,0 +1,15 @@
+{
+    "short_name": "Talent Growth",
+    "name": "Talent Growth Apps",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "type": "image/ico",
+            "sizes": "48x48"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#00917c",
+    "background_color": "#ffffff"
+}
