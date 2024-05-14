@@ -12,6 +12,7 @@ The project includes website code created using React.js 18 and Tailwind CSS as 
 ### How to setup?
 
 - `npm init`
+- `copy .env.example to .env for setup environment`
 - `npm run start`
 
 ### Add git hook
